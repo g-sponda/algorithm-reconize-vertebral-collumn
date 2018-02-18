@@ -43,7 +43,9 @@ The results goes to `results` directory. The image saved has in left the origina
 
 
 ## License
-Please if you use that code reference my name and URL of this repository.
+GNU GPLv3 
+
+Please, don't forget to reference my name and URL of this repository.
 
 With Love <3
 * Guilherme Sponda (github.com/G-J-S)
