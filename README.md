@@ -1,5 +1,5 @@
 # algorithm-reconize-vertebral-collumn
-By [G-J-S](github.com/G-J-S).
+By [G-J-S](https://github.com/G-J-S).
 
 ## Description
 **algorithm-reconize-vertebral-collumn** 
