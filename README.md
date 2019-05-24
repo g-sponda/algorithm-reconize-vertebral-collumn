@@ -1,5 +1,5 @@
 # algorithm-reconize-vertebral-collumn
-By [G-J-S](github.com/G-J-S).
+By [g-sponda](github.com/g-sponda).
 
 ## Description
 **algorithm-reconize-vertebral-collumn** 
@@ -31,7 +31,7 @@ The results goes to `results` directory. The image saved has in left the origina
 
 ## Authors
 
-* Guilherme Sponda (github.com/G-J-S)
+* Guilherme Sponda (github.com/g-sponda)
 
 ## Contributing
 
@@ -48,4 +48,4 @@ GNU GPLv3
 Please, don't forget to reference my name and URL of this repository.
 
 With Love <3
-* Guilherme Sponda (github.com/G-J-S)
+* Guilherme Sponda (github.com/g-sponda)
